@@ -88,7 +88,7 @@ const Index = () => {
                 <Icon name="Smartphone" size={18} className="text-white" />
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-pink-600 bg-clip-text text-transparent">
-                PhoneStore
+                ScreamShop
               </span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
@@ -283,7 +283,7 @@ const Index = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">Подробная помощь по email</p>
-                <Button variant="outline" className="w-full">support@phonestore.ru</Button>
+                <Button variant="outline" className="w-full">support@screamshop.ru</Button>
               </CardContent>
             </Card>
           </div>
@@ -299,7 +299,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-pink-500 rounded-lg flex items-center justify-center">
                   <Icon name="Smartphone" size={18} className="text-white" />
                 </div>
-                <span className="text-xl font-bold">PhoneStore</span>
+                <span className="text-xl font-bold">ScreamShop</span>
               </div>
               <p className="text-gray-400">Лучшие телефонные аккаунты с мгновенной доставкой</p>
             </div>
@@ -324,14 +324,14 @@ const Index = () => {
             <div>
               <h3 className="font-semibold mb-4">Контакты</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>support@phonestore.ru</li>
+                <li>support@screamshop.ru</li>
                 <li>+7 (999) 123-45-67</li>
                 <li>Онлайн чат 24/7</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 PhoneStore. Все права защищены.</p>
+            <p>&copy; 2024 ScreamShop. Все права защищены.</p>
           </div>
         </div>
       </footer>
