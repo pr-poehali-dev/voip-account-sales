@@ -7,63 +7,73 @@ const Index = () => {
   const accounts = [
     {
       id: 1,
-      title: "Telegram Premium",
-      description: "Аккаунт с подпиской Premium на 1 месяц",
-      price: "299₽",
-      oldPrice: "399₽",
+      title: "Plusofon",
+      description: "Номера для регистрации и SMS-активаций",
+      price: "$70",
+      oldPrice: "$90",
       rating: 4.9,
       sales: 1247,
       badge: "Хит продаж"
     },
     {
       id: 2,
-      title: "WhatsApp Business",
-      description: "Верифицированный бизнес-аккаунт с зеленой галочкой",
-      price: "899₽",
-      oldPrice: "1199₽",
+      title: "МТС Exolve",
+      description: "Облачная IP-телефония от МТС",
+      price: "$100",
+      oldPrice: "$130",
       rating: 4.8,
       sales: 856,
       badge: "Премиум"
     },
     {
       id: 3,
-      title: "Instagram Creator",
-      description: "Аккаунт создателя с 10k подписчиков",
-      price: "1599₽",
-      oldPrice: "2199₽",
+      title: "SIPOUT",
+      description: "SIP-провайдер для бизнес-коммуникаций",
+      price: "$120",
+      oldPrice: "$150",
       rating: 4.7,
       sales: 432,
       badge: "Новинка"
     },
     {
       id: 4,
-      title: "Discord Nitro",
-      description: "Аккаунт с подпиской Nitro на 3 месяца",
-      price: "699₽",
-      oldPrice: "899₽",
+      title: "1ats",
+      description: "Виртуальная АТС для малого бизнеса",
+      price: "$20",
+      oldPrice: "$30",
       rating: 4.9,
       sales: 623,
       badge: "Скидка"
     },
     {
       id: 5,
-      title: "TikTok Pro",
-      description: "Бизнес-аккаунт с аналитикой и рекламой",
-      price: "1299₽",
-      oldPrice: "1699₽",
+      title: "SIPNET",
+      description: "IP-телефония с широким функционалом",
+      price: "$70",
+      oldPrice: "$95",
       rating: 4.6,
       sales: 234,
       badge: "Топ"
     },
     {
       id: 6,
-      title: "YouTube Premium",
-      description: "Аккаунт с Premium подпиской на 6 месяцев",
-      price: "1199₽",
-      oldPrice: "1599₽",
+      title: "Cloff",
+      description: "Облачная телефония для колл-центров",
+      price: "$50",
+      oldPrice: "$70",
       rating: 4.8,
       sales: 789,
       badge: "Популярно"
+    },
+    {
+      id: 7,
+      title: "Zvonok",
+      description: "VoIP-решения для бизнеса",
+      price: "$60",
+      oldPrice: "$80",
+      rating: 4.5,
+      sales: 567,
+      badge: "Новинка"
     }
   ];
 
