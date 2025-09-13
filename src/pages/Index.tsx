@@ -85,7 +85,11 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-pink-500 rounded-lg flex items-center justify-center">
-                <Icon name="Smartphone" size={18} className="text-white" />
+                <img 
+                  src="/img/66246985-facc-44e4-93b8-fa121fd6403b.jpg" 
+                  alt="Scream mask"
+                  className="w-6 h-6 object-contain filter invert"
+                />
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-pink-600 bg-clip-text text-transparent">
                 ScreamShop
@@ -297,7 +301,11 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <div className="w-8 h-8 bg-gradient-to-r from-blue-500 to-pink-500 rounded-lg flex items-center justify-center">
-                  <Icon name="Smartphone" size={18} className="text-white" />
+                  <img 
+                    src="/img/66246985-facc-44e4-93b8-fa121fd6403b.jpg" 
+                    alt="Scream mask"
+                    className="w-6 h-6 object-contain filter invert"
+                  />
                 </div>
                 <span className="text-xl font-bold">ScreamShop</span>
               </div>
